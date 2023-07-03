@@ -280,7 +280,7 @@ html,body {
     border: 2px solid white;
     border-radius: 70px;
     display: inline-block;
-    -webkit-transform: rotate( -5.5deg);
+    transform: rotate( -5.5deg);
 }
 #cylinder4{
     height: 85px;
@@ -293,7 +293,7 @@ html,body {
     border: 2px solid white;
     border-radius: 70px;
     display: inline-block;
-    -webkit-transform: rotate( 5.5deg);
+    transform: rotate( 5.5deg);
 }
 .gridb2b{
     grid-area: 3/1/4/2;
@@ -469,7 +469,7 @@ html,body {
     z-index: 2;
     border: 1px solid black;
     border-radius: 50%;
-    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
 }
 #orbit2{
     width: 100%;
@@ -478,7 +478,7 @@ html,body {
     z-index: 3;
     border: 1px solid black;
     border-radius: 50%;
-    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
 }
 #div2btext1{
     height: 27% ;
